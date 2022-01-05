@@ -1,0 +1,28 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size:50px;
+}
+.orange-color{
+    color:orange;
+    font-family: 'Moon Dance', cursive;
+}
+section{
+    display:flex;
+}
+.half-width{
+    width:50%;
+    padding-left:2%;
+}
+.half-width img{
+    width:80%;
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(to bottom, orange,tomato);
+    color:white;
+    padding:10px 20px;
+    border-radius:5px;
+
+}
